@@ -1,6 +1,6 @@
 🐱‍💻
-Cursando técnico em TI
-RS/BR
+- Cursando técnico em TI 
+- RS/BR
 
 
 
