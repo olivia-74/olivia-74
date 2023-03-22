@@ -1,5 +1,5 @@
 🐱‍💻
-- Cursando técnico em TI 
+- Cursando técnico em desenvolvimento web
 - RS/BR
 
 
