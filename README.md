@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Olívia D. dos Santos ⠀(●'◡'●) <br>Estou cursando o primeiro semestre do curso Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos-Unisinos</p>
+<p align="left">Meu nome é Olívia Dresch (●'◡'●) <br>Estou cursando o primeiro semestre do curso Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos-Unisinos</p>
 
 ###
 
