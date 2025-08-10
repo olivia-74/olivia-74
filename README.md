@@ -4,7 +4,7 @@
 
 <p align="left">Meu nome é Olivia Dresch (●'◡'●) <br> Estou cursando o terceiro semestre do curso Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos - Unisinos</p>
 <p>Meus projetos envolvem:</p>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
