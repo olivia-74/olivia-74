@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">Meu nome é Olívia Dresch (●'◡'●) <br> Estou cursando o terceiro semestre do curso Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos-Unisinos</p>
-
+<p align="left">Meu nome é Olivia Dresch (●'◡'●) <br> Estou cursando o terceiro semestre do curso Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos - Unisinos</p>
+<p>Meus projetos envolvem:</p>
 ###
 
 <div align="center">
@@ -39,7 +39,7 @@
 <!--- <img src="https://raw.githubusercontent.com/olivia-74/olivia-74/output/snake.svg" alt="Snake animation" /> --->
 
 ###
-
+<p>Você pode me encontrar em:</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/oliviadresch-10703922a/?originalSubdomain=br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
